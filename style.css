@@ -150,7 +150,7 @@ header {
     position: relative;
     width: 100%;
     min-height: 110vh; /*のち設定調整必須*/
-    background: url(image/image3.png) center;
+    background: url(image3.png) center;
     background-size: cover;
     background-repeat: no-repeat;
 }
